@@ -1,1 +1,1 @@
-worker: python quokka.py
+worker: Python quokka.py
