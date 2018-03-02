@@ -22,6 +22,6 @@ async def pls():
 
 @bot.command()
 async def say(args):
-    await bot.say(' '.join(args))
+    await bot.say()
 
 bot.run(config.token)
